@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "Bloo Mod",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NiteKnightVR"],
+  "credits": "Me, Myself, and I, bruh~",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
